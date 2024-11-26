@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EnlitHamster, also known online as @EnlitOwl, a Software Engineer and Developer @ CodeGrade NL
+- 👋 Hi, I’m @EnlitHamster, also known online as @EnlitOwl, a Software Engineer and Developer @ GIGA Storage
 - 👀 I’m interested in Computer Sciences, BioInformatics and VideoGame making.
-- 🌱 I’m currently learning VR development, C++ backends and Web Development.
+- 🌱 I’m currently learning about Godot 4.3, Biological and Chemical computer simulations, and Procedural animation algorithms.
 - 💞️ I’m looking to collaborate on Game making projects.
 - 📫 How to reach me [`san dot massa dot 98 at gmail dot com`](mailto:san.massa.98@gmail.com)
 
